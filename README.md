@@ -21,7 +21,7 @@ This assignment should prove that a student is able to:
 
 - [x] Fork the project to your github account
 - [x] Clone the project to your computer
-- [ ] Open the project in VSCode with code <cloned_repo_folder_name>
+- [x] Open the project in VSCode with code <cloned_repo_folder_name>
 - [ ] This assignment does **NOT** have automated tests!
 - [ ] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] The project's file/folder structure should NOT be edited!
