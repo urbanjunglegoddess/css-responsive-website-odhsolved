@@ -20,7 +20,7 @@ This assignment should prove that a student is able to:
 ## Standard requirements
 
 - [x] Fork the project to your github account
-- [ ] Clone the project to your computer
+- [x] Clone the project to your computer
 - [ ] Open the project in VSCode with code <cloned_repo_folder_name>
 - [ ] This assignment does **NOT** have automated tests!
 - [ ] All the tasks of the "Specific requirements" section MUST be solved
