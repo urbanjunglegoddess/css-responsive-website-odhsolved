@@ -40,12 +40,13 @@ Acceptance criteria:
 - [x] The responsive HTML meta tag is set.
 - [x] The website should replicate the mockup for desktop, tablet, and mobile views, incorporating all aspects such
   as fonts, font sizes, colors, paddings, margins, gaps, etc.
-- [ ] The hover styles are added for the desktop view for:
+- [x] The hover styles are added for the desktop view for:
   - The top navigation items
   - The social icons of the teammate
   - The links in the footer (social icons and labels, emails, phone numbers)
-- [ ] The index.html file must remain unchanged.
-- [ ] The styles.css file should remain unaltered. Any necessary styles should be appended to the /css/responsive.css file.
+- [x] The index.html file must remain unchanged.
+- [x] The styles.css file should remain unaltered. Any necessary styles should be appended to the /css/responsive.
+  css file.
 - [ ] Media queries should address the following viewport ranges:
   - Desktop: 1024px and above
   - Tablets: 768px (0px) to 1023px
