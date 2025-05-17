@@ -10,8 +10,23 @@
   }
 
   /* 👇👇👇 Add the styles that belong to the DESKTOP view only beneath 👇👇👇 */
+  .top-navigation ul li a:hover {
+    color: #4ECDC4;
+    border-bottom: 2px solid #4ECDC4;
+  }
+  
+  .teammate-social-icons div:hover {
+    background-color: #4ECDC4;
+    color: white;
+  }
+  
+  .footer-contacts a:hover,
+  .social-icons div:hover {
+    color: #4ECDC4;
+  }
 }
 
 /* 👇👇👇 Add the media rule and the styles that are common within the TABLET and MOBILE views beneath 👇👇👇 */
+
 
 /* 👇👇👇 Add the media rule and the styles that belong to the MOBILE view only beneath 👇👇👇 */
